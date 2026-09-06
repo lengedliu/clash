@@ -46,6 +46,7 @@ DOMAIN-SUFFIX,kuajing.uk
 DOMAIN-SUFFIX,metacubex.one
 DOMAIN-SUFFIX,mojie.cyou
 DOMAIN-SUFFIX,browserleaks.org
+DOMAIN-SUFFIX,browserleaks.net
 
 
 IP-CIDR,8.8.8.8/32,no-resolve
